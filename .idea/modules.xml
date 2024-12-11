@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-holaMundo/01-holaMundo.iml" filepath="$PROJECT_DIR$/01-holaMundo/01-holaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-variables/02-variables.iml" filepath="$PROJECT_DIR$/02-variables/02-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
